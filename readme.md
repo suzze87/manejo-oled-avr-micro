@@ -1,7 +1,7 @@
 # OLED for AVR mikrocontrollers
 Library for oled-displays with SSD1306, SSD1309 or SH1106 display-controller connected with I2C or SPI at an AVR Atmel Atmega like Atmega328P.
 
-<img src="https://github.com/suzze87/manejo-oled-avr-micro/blob/master/oled.jpg?raw=true" width="500">
+<img src="https://github.com/suzze87/manejo-oled-avr-micro/blob/main/oled.jpg?raw=true" width="500">
 
 Esta biblioteca le permite mostrar texto y / o gráfico en oled-display. 
 
@@ -123,4 +123,4 @@ int main(void){
 }
 ```
 
-<img src="https://github.com/suzze87/manejo-oled-avr-micro/blob/master/bigchars.JPG?raw=true" width="500">
+<img src="https://github.com/suzze87/manejo-oled-avr-micro/blob/main/bigchars.JPG?raw=true" width="500">
